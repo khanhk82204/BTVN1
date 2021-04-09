@@ -1,0 +1,16 @@
+- Khái ni?m l?p trình hu?ng d?i tu?ng(OOP): là m?t k? thu?t l?p trình cho phép t?o ra các d?i tu?ng trong code
+tr? tu?ng hóa các d?i tu?ng.
+- Ð?i tu?ng(Object):
+  M?t d?i tu?ng bao g?m 2 thông tin: thu?c tính và phuong th?c
+    + Thu?c tính: là nh?ng thông tin, d?c di?m c?a d?i tu?ng. VD con ngu?i có các d?c tính nhu: m?t, mui, tay,... 
+    + Phuong th?c: là nh?ng thao tác hành d?ng mà d?i tu?ng có th? th?c hi?n hành d?ng dó nhu nói, di, an,...
+- L?p (Class): M?t l?p là m?t ki?u d? li?u bao g?m các thu?c tính và phuong th?c du?c d?nh nghia t? tru?c.
+- 4 tính ch?t c?a OOP:
+  + Tính dóng gói: Các d? li?u và phuong th?c có liên quan v?i nhau du?c dóng gói thành các l?p d? ti?n cho vi?c qu?n lý
+và s? d?ng. T?c là m?i l?p du?c xây d?ng d? th?c hi?n m?t nhóm ch?c nang d?c trung c?a l?p dó.
+  + Tính k? th?a: Cho phép xây d?ng m?t l?p m?i d?a trên d?nh nghia c?a l?p dã có. Có nghia là l?p cha có th? chia s? các 
+d? li?u và phuong th?c cho các l?p con, các l?p con s? không ph?i d?nh nghia l?i, ngoài ra còn có th? b? sung thêm các phuong th?c
+m?i.
+  + Tính da hình: Là m?t hành d?ng du?c th?c hi?n b?ng nhi?u cách khác nhau.Hi?u m?t cách don gi?n hon: Ða hình là khái ni?m mà hai ho?c nhi?u l?p
+có nh?ng phuong th?c gi?ng nhau nhung có th? th?c thi theo nh?ng cách th?c khác nhau.
+  + Tính tr?u tu?ng: Là ch?n ra các thu?c tính, phuong th?c c?a d?i tu?ng c?n cho vi?c gi?i quy?t bài toán dang l?p trình.
